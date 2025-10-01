@@ -1,4 +1,4 @@
-# 🏦 Projeto Bank do Zé: O Seu Novo Sistema Bancário em Python!
+# 🏦 Projeto Banco organizado em classes O Seu Novo Sistema Bancário em Python!
 
 Olá! Dê uma olhada neste projeto de sistema bancário feito em Python. Não é só um monte de código, é uma forma super legal de aprender sobre **Programação Orientada a Objetos (POO)** na prática.
 
